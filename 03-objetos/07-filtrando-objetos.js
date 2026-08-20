@@ -15,4 +15,4 @@ console.log(aprovados);
 
 aprovados.forEach((aluno) => {
     console.log(`O aluno ${aluno.nome} é bom, tirou a nota ${aluno.nota}.`)
-});
+})
