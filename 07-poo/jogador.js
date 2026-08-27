@@ -12,12 +12,15 @@ class Jogador {
     }
 
     atacar(){
-        console.log(`${this.nome} está realizando um ataque!!`)
+        console.log(`${this.nome} está realizando um ataque!!`);
+    }
+
+    defender(){
+        console.log(`${this.nome} está defendendo!!`);
     }
 }
 
 const jogador1 = new Jogador("Yen Aneki", 17, "Goleiro");
 
 jogador1.apresentar();
-
 jogador1.atacar();
