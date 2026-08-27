@@ -17,3 +17,29 @@ Continuação do Javascript com foco em funções, métodos de arrays, objetos, 
 - Instanciar objetos com `new`;
 - Criar atributos e métodos.
 - Compreender os conceitos iniciais de encapsulamento, herança e polimorfismo.
+
+## Como executar
+
+Abra o terminal na pasta do projeto e execute:
+
+```bash
+    node nome-do-arquivo.js
+```
+
+Exemplo
+
+```bash
+    node 01-funcao/01-funcao-simples.js
+```
+
+## Conteúdo
+
+### 1. Funções
+
+Função permite organizar e reutilizar códigos
+
+```javascript
+    function saudacao(){
+        console.log("Olá!");
+    }
+```
