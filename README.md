@@ -42,4 +42,6 @@ Função permite organizar e reutilizar códigos
     function saudacao(){
         console.log("Olá!");
     }
+
+    saudacao();
 ```
