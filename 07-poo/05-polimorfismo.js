@@ -1,6 +1,6 @@
 class Pessoa {
     apresentar() {
-        console.log("Sou uma pessoa!!")
+        console.log("Sou uma pessoa!!");
     }
 }
 
